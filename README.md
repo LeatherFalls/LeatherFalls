@@ -1,7 +1,7 @@
 ### Hi there, I'm Vinicius Gomes 👋
 
-- 🔭 Estudante de Engenharia Química - UFRGS
-- 🌱 Conhecendo o universo da tecnologia
+- 🔭 Chemical Engineering student - UFRGS
+- 🌱 Knowing the universe of technology
 - 📫 e-mail: viniplay0599@gmail.com
 
 <div>
@@ -21,7 +21,7 @@
   
   <div> 
   <a href="https://instagram.com/gomess_lf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/G9GPg5SA75" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="https://discord.gg/725137208813551666" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "viniplay0599@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vinicius-gomes-nunes-37a7431b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
