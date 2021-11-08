@@ -1,7 +1,7 @@
 ### Hi there, I'm Vinicius Gomes 👋
 
 - 🔭 Chemical Engineering student - UFRGS
-- 🌱 Knowing the universe of technology
+- 🌱 Trybe web development student
 - 📫 e-mail: viniplay0599@gmail.com
 
 <div>
