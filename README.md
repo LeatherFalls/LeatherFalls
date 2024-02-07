@@ -1,6 +1,5 @@
 ### Hi there, I'm Vinicius Gomes 👋
 
-- 🔭 Chemical Engineering student - UFRGS
 - 🌱 Full Stack Web Developer
 - 📫 e-mail: viniplay0599@gmail.com
 
